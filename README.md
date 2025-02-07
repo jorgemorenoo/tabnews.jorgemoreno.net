@@ -1,3 +1,3 @@
-# dev.tabnews.com.br
+# tabnews.jorgemoreno.net
 
 Um repositório onde estou desenvolvendo minhas habilidades em programação na web.
