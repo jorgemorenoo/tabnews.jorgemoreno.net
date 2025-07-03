@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Testando alterações feitas no h1</h1>
+    <h1>Desenvolvendo habilidades de programação</h1>
   );
 }
 
