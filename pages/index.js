@@ -1,6 +1,7 @@
 function Home() {
   return (
-    <h1>Desenvolvendo habilidades de programação</h1>
+    <h1>Desenvolvendo habilidades de programação</h1> 
+    <h2>Aprendendo a criar aplicações web</h2>
   );
 }
 
