@@ -1,7 +1,9 @@
 function Home() {
   return (
-    <h1>Desenvolvendo habilidades de programação</h1> 
-    <h2>Aprendendo a criar aplicações web</h2>
+    <div>
+      <h1>Desenvolvendo habilidades de programação</h1>
+      <h2>Aprendendo Next.js</h2>
+    </div>
   );
 }
 
